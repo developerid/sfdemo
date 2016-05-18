@@ -1,6 +1,6 @@
 @isTest
 public class SampleDeployClass {
-//UpdatedbyKrishna 5/17/2016
+//UpdatedbyKrishna 5/17/2016 @ 5 PM MST
     public static testmethod void t1() {
         helloMethod();
 
