@@ -1,6 +1,8 @@
 @isTest
 public class SampleDeployClass {
 //UpdatedbyKrishna 5/17/2016 @ 5 PM MST
+
+//CDCI Demo updates
     public static testmethod void t1() {
         helloMethod();
 
