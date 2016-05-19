@@ -2,7 +2,7 @@
 public class SampleDeployClass {
 //UpdatedbyKrishna 5/19/2016 @ 5 PM MST
 
-//CDCI Demo updates
+//Synbots demo
     public static testmethod void t1() {
         helloMethod();
 
