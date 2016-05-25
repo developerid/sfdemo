@@ -3,7 +3,7 @@ public class SampleDeployClass {
 //UpdatedbyKrishna 5/19/2016 @ 5 PM MST
 
 //Synbots demo
-    public static testmethod void t1() {
+    private static testmethod void t1() {
         helloMethod();
 
         Account acc = new Account(Name= 'fred');
